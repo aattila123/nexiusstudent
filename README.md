@@ -1,2 +1,2 @@
 # nexiusstudent
-I am lerning
+I am learning
